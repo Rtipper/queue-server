@@ -7,7 +7,7 @@
 - 
 
 # Heroku Deployment
-- 
+- https://rtipper-queue-server.herokuapp.com/
 
 ## Overview - 
 Implement a “queue” system so that nothing gets lost. Every event sent will be logged and held onto by the server until the intended recipient acknowledges that they received the message. At any time, a subscriber can get all of the messages they might have missed.
