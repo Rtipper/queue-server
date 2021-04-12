@@ -4,7 +4,7 @@
 **Version**: 1.0.0
 
 # Pull Request
-- 
+- https://github.com/Rtipper/queue-server/pull/1
 
 # Heroku Deployment
 - https://rtipper-queue-server.herokuapp.com/
@@ -33,7 +33,7 @@ GitHub
 Heroku
 
 ## Change Log
-
+205PM 4/12/21: Lab Fully Completed and Merged
 
 ## Credits and Collaborations
 
@@ -55,12 +55,11 @@ Number and name of feaute: 2 -- Begin adding features / code
 
 Estimate of time needed to complete:  minutes
 
-Start time: 
+Start time: 6PM 4/11
 
-Finish time: 
+Finish time: 2PM 4/12
 
-Actual time needed to complete: minutes
+Actual time needed to complete: 4 hours 45min (4/11 - 4/12)
 
-----------------------------------
 
 
